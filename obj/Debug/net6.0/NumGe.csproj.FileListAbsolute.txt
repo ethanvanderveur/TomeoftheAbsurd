@@ -1,0 +1,15 @@
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\bin\Debug\net6.0\NumGe.exe
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\bin\Debug\net6.0\NumGe.deps.json
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\bin\Debug\net6.0\NumGe.runtimeconfig.json
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\bin\Debug\net6.0\NumGe.dll
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\bin\Debug\net6.0\NumGe.pdb
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.AssemblyInfo.cs
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.dll
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\refint\NumGe.dll
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.pdb
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\NumGe.genruntimeconfig.cache
+C:\Users\ethan\source\repos\TomeNumberGeneratorRedo\NumGe\obj\Debug\net6.0\ref\NumGe.dll
